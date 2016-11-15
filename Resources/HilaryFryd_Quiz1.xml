@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<?xml-stylesheet type="text/css" href="hilaryfrydLab2Part44.css"?>
+<root_element xmlns:html="http://www.w3.org/1999/xhtml" xmlns:xlink= "http://www.w3.org/1999/xlink">
+<body>
+	<labs>
+		<lab>
+			<name> Lab 1</name>
+			<description> AMP Stack, PHPMyAdmin</description>
+			<source>.../Lab 1</source>
+		</lab>
+		<lab>
+			<name> Lab 2</name>
+			<description> Create a playlist of your favorite songs</description>
+			<source>Websys/Projects/Lab 2</source>
+		</lab>
+		<lab>
+			<name> Lab 3</name>
+			<description> JavaScript and DOM</description>
+			<source>Websys/Projects/Lab 3</source>
+		</lab>
+		<lab>
+			<name> Lab 4</name>
+			<description> AJAX and JSON</description>
+			<source>Websys/Projects/Lab 4</source>
+		</lab>
+		<lab>
+			<name> Lab 5</name>
+			<description> Front End Optimization</description>
+			<source>Websys/Projects/Lab 2</source>
+		</lab>
+		<lab>
+			<name> Lab 6</name>
+			<description> PHP</description>
+			<source>Websys/Projects/Lab 6</source>
+		</lab>
+	</labs>
+	<homeworks>
+		<homework>
+			<name>Homework 1</name>
+			<description> Write your own resume</description>
+			<source>Websys/Projects/Homework 1</source>
+		</homework>
+	</homeworks>
+</body>
+</root_element>
+
+
+
